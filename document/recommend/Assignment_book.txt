@@ -1,0 +1,5 @@
+[1]  Asokan, N. (1994). Anonymity in mobile computing environment. In Workshop on mobile computing systems and applications (pp. 200每2004).
+[2]  Bakhtiari, S., Baraani, A., & Khayyambashi, M.-R. (2009). MobiCash: a new anonymous mobile payment system implemented by elliptic curve cryptography. In WRI world congress on computer science and information engineering (pp. 286每290).
+[3]  Bellare, M., & Rogaway, P. (1993). Entity authentication and key distribution. In Advances in cryptology (CRYPTO＊93) (pp. 232每249).
+[4]  Bellare, M., Garay, J., Hauser, R., Herzberg, A., Krawczyk, H., Steiner, M., Tsudik, G., Van Herreweghen, Els., & Waidner, M. (2000). Design, implementation and deployment of the iKP secure electronic payment system. IEEE Journal on Selected Areas in Communication, 18(4), 611每627.
+[5]  Bellare, M. (2006). New proofs for NMAC and HMAC: security without collision-resistance. In The 26th annual international cryptology conference (Crypto 2006) (pp. 602每619).
